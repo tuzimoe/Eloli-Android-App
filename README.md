@@ -11,5 +11,5 @@
 我们需要你们的支持！
 天若有情天亦老,我为Eloli续一秒！
 </pre>
-## 此为eloli非官方非发布版本的移动端app
+## 此为eloli官方发布版本的移动端app
 此app基于DCloud的html5+、webview以及云打包技术，使用HBuilder开发
